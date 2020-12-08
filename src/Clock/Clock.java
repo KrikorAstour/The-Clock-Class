@@ -7,7 +7,7 @@ package clock;
 
 /**
  *
- * @author andre
+ * @author Krikor Astour
  */
 public class Clock {   //15:15
     private int hour;
